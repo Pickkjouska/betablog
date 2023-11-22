@@ -7,9 +7,13 @@
     <ColorButton/>
     </div>
     <div class="grow h-14"></div>
+    <div class="flex-none h-12 ">
+      <Returntop/>
+    </div>
     <div class="flex-none w-30 h-12 ">
       <Search/> 
     </div>
+    
   </div>
 </template> 
 
